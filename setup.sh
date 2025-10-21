@@ -177,7 +177,7 @@ KEY="6668909715:AAHdCAC0NPVuXFjWEdueA2VvkkMl5Ie1WRQ"  # Token bot Anda
 TIME="10"  # Timeout maksimal untuk curl
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 TEXT="<b>━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
- <b>🔥SCRIPT PREMIUM RISWAN STORE🔥</b>
+ <b>🔥SCRIPT PREMIUM Yhdsvpn🔥</b>
 <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
 <code>Pengguna :</code> <code>$Name</code>
 <code>Domain   :</code> <code>$domain</code>
@@ -258,7 +258,7 @@ gg="AM"
 fi
 curl -sS ifconfig.me > /etc/myipvps
 echo " "
-echo "===================-[ RISWAN-VPN ]-===================" | tee -a log-install.txt
+echo "===================-[ Yhds-VPN ]-===================" | tee -a log-install.txt
 echo "------------------------------------------------------------" | tee -a log-install.txt
 echo "" | tee -a log-install.txt
 echo "   >>> Service & Port"  | tee -a log-install.txt
@@ -295,7 +295,7 @@ echo "   - Change port" | tee -a log-install.txt
 echo "   - Full Orders For Various Services" | tee -a log-install.txt
 echo "" | tee -a log-install.txt
 echo "------------------------------------------------------------" | tee -a log-install.txt
-echo "===============-[ Script By  Tunnel Store ]-==============" | tee -a log-install.txt
+echo "===============-[ Script By  Yhdsvpn ]-==============" | tee -a log-install.txt
 echo ""
 echo ""
 rm /root/setup.sh >/dev/null 2>&1
